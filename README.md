@@ -4,7 +4,7 @@ Im gonna be adding some information about me the next few weeks, Im trying some 
 
 ![Mike's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikestebancc&show_icons=true&theme=algolia&count_private=true&show_icons=true)     
 
-
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikestebancc)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
