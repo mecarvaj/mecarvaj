@@ -2,7 +2,7 @@
 
 Im gonna be adding some information about me the next few weeks, Im trying some projects and stuff to be user friendly so I can share all the important info over here. 
 
-![Mike's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikestebancc&show_icons=true&theme=algolia&count_private=true)
+![Mike's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikestebancc&show_icons=true&theme=algolia&count_private=true&show_icons=true)
 
 <!--
 **mikestebancc/mikestebancc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
