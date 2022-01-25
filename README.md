@@ -1,4 +1,4 @@
-### Hi there, this is Mike 👋
+### _Hi there, this is Mike_ 👋
 
 Im gonna be adding some information about me the next few weeks, Im trying some projects and stuff to be user friendly so I can share all the important info over here. 
 
